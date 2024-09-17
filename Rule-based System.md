@@ -1,0 +1,4 @@
+A [rule-based system](https://www.geeksforgeeks.org/rule-based-classifier-machine-learning/) is a computational framework that relies on a predefined set of explicit rules to make decisions or draw conclusions within a specific domain. In technical terms, these rules are typically formulated as if-then statements, where specific conditions trigger corresponding actions. The strength of rule-based systems lies in their transparency and ease of interpretation.
+A rule-based system produces pre-defined outcomes based on a set of rules coded by humans.
+
+E.g: a bank's customer personal and financial info can be measured against a rpogrammed set of levels, if the numbers match -> home loan would be granted

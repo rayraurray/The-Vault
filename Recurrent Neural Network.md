@@ -1,0 +1,3 @@
+A recurrent neural network, or RNN, is a deep [[Neural Network]] trained on sequential or time series data to create a [machine learning](https://www.ibm.com/topics/machine-learning) model can make sequential predictions or conclusions based on sequential inputs.
+
+An RNN might be used to predict daily flood levels based on past daily flood, tide and meteorological data. But RNNs can also be used to solve ordinal or temporal problems such as language translation, [natural language processing (NLP)](https://www.ibm.com/topics/natural-language-processing), [speech recognition](https://www.ibm.com/topics/speech-recognition), and image captioning. RNNs are incorporated into popular applications such as Siri, voice search, and Google Translate.

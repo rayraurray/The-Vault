@@ -1,0 +1,5 @@
+Natural language processing (NLP) is a subfield of [[Computer Science]] and [[Artificial Intelligence]] that uses machine learning to enable computers to understand and communicate with human language. 
+
+NLP enables computers and digital devices to recognize, understand and generate text and speech by combining computational linguistics—the rule-based modeling of human language—together with statistical modeling, [[Machine Learning]] and [[Deep Learning]]. 
+
+NLP research has enabled the era of generative AI, from the communication skills of [[Large Language Model]]s (LLMs) to the ability of image generation models to understand requests. NLP is already part of everyday life for many, powering search engines, prompting [[Chatbot]]s for customer service with spoken commands, voice-operated GPS systems and digital assistants on smartphones.

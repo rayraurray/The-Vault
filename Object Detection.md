@@ -1,0 +1,1 @@
+Object Detection can use [[Image Classification ]]to identify a certain class of image and then detect and tabulate their appearance in an image or video. Examples include detecting damages on an assembly line or identifying machinery that requires maintenance.

@@ -1,0 +1,3 @@
+**Image classification** sees an image and can classify it (a dog, an apple, a person’s face). More precisely, it is able to accurately predict that a given image belongs to a certain class. For example, a social media company might want to use it to automatically identify and segregate objectionable images uploaded by users.
+
+Image classification using [[Convolutional Neural Network]]s **involves the extraction of features from the image to observe some patterns in the dataset**.

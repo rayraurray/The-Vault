@@ -1,0 +1,5 @@
+Deep (refers to number of layers of the neural network) learning is a subset of [[Machine Learning]], called deep neural networks, to simulate the complex decision-making power of the human brain. Some form of deep learning powers most of the [[Artificial Intelligence]] applications in our lives today.
+
+The chief difference between deep learning and machine learning is the structure of the underlying neural network architecture. “Nondeep,” [traditional machine learning](https://www.ibm.com/blog/machine-learning-types/) models use simple neural networks with one or two computational layers. Deep learning models use three or more layers—but typically hundreds or thousands of layers—to train the models.
+
+While [[Supervised Learning]] models require structured, labeled input data to make accurate outputs, deep learning models can use [[Unsupervised Learning]]. With unsupervised learning, deep learning models can extract the characteristics, features and relationships they need to make accurate outputs from raw, unstructured data. Additionally, these models can even evaluate and refine their outputs for increased precision.

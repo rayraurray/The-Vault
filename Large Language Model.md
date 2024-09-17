@@ -1,0 +1,5 @@
+Large language models (LLMs) are a category of foundation models and [[Machine Learning]] trained on immense amounts of data making them capable of understanding and generating natural language and other types of content to perform a wide range of tasks.
+
+LLMs have become a household name thanks to the role they have played in bringing generative AI to the forefront of the public interest, as well as the point on which organizations are focusing to adopt artificial intelligence across numerous business functions and use cases.
+
+Outside of the enterprise context, it may seem like LLMs have arrived out of the blue along with new developments in [[Generative AI]].However, many companies, including IBM, have spent years implementing LLMs at different levels to enhance their natural [language understanding (NLU)](https://www.ibm.com/topics/natural-language-processing) and [[Natural Language Processing (NLP)]] capabilities. This has occurred alongside advances in machine learning, machine learning models, algorithms, neural networks and the transformer models that provide the architecture for these [[Artificial Intelligence]] systems.

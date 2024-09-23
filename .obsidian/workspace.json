@@ -4,81 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "1a774848a2b23381",
+        "id": "0b6640936a76af3e",
         "type": "tabs",
         "children": [
           {
-            "id": "24f9c03a6b5fe336",
+            "id": "9e73c601ba77a5ee",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Software Quality.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f3daa49b3a649914",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ML/ML Week 1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "99cbdeafbc467a73",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Beeg Data/Beeg Data Week 2 + 3.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3a37615aa816c74e",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "-images/Hierarchical Software Quality Model.png"
-              }
-            }
-          },
-          {
-            "id": "8ede4d748d9571f0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Software A&D/SAD Week 1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2d6ee1a8646df521",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Software Quality.md",
+                "file": "Beeg Data/Beeg Data Week 1.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -97,7 +38,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "byModifiedTime"
               }
             }
           },
@@ -128,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 379.5
   },
   "right": {
     "id": "ed6fb30218ae352b",
@@ -144,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Beeg Data/Beeg Data Week 2 + 3.md",
+                "file": "Beeg Data/Beeg Data Week 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Beeg Data/Beeg Data Week 2 + 3.md",
+                "file": "Beeg Data/Beeg Data Week 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Beeg Data/Beeg Data Week 2 + 3.md"
+                "file": "Beeg Data/Beeg Data Week 1.md"
               }
             }
           }
@@ -205,48 +146,48 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "99cbdeafbc467a73",
+  "active": "9e73c601ba77a5ee",
   "lastOpenFiles": [
-    "Beeg Data/Beeg Data Week 1.md",
+    "Cost Function.md",
+    "Gradient Descent.md",
+    "Multiclass Classification.md",
+    "Numpy.md",
+    "Pandas.md",
+    "ML/ML Week 3.md",
+    "Python.md",
+    "Scikit-learn.md",
+    "-img/Variants of Gradient Descent.png",
+    "Stochastic Gradient Descent.md",
+    "Mini-batch Gradient Descent.md",
+    "Batch Gradient Descent.md",
+    "Multinomial Logistic Regression.md",
+    "-img/Softmax Cost Function.png",
+    "Pasted image 20240920103153.png",
+    "-img/Softmax Eval.png",
+    "Pasted image 20240920103224.png",
+    "Pasted image 20240920103209.png",
+    "Pasted image 20240920103129.png",
+    "Pasted image 20240920103107.png",
+    "-img/Defined Softmax Function.png",
+    "Pasted image 20240920102934.png",
+    "One-vs-All Binary Logistic Regression.md",
+    "Decision Boundary.md",
+    "ML/ML Week 2.md",
+    "Underfitting.md",
+    "Logistic Regression.md",
+    "Generative AI.md",
+    "Supervised Learning.md",
+    "Data Mining.md",
     "Beeg Data/Beeg Data Week 2 + 3.md",
-    "Data Analysis.md",
-    "Data Analytics.md",
-    "Big Data.md",
-    "Data.md",
+    "Beeg Data/Beeg Data Week 1.md",
     "ML/ML Week 1.md",
+    "ML/AML.md",
+    "Regularized Linear Regression.md",
+    "Linear Regression.md",
     "Untitled",
-    "Deep Learning.md",
-    "Convolutional Neural Network.md",
-    "Natural Language Processing (NLP).md",
-    "Quality Attributes.md",
-    "Unsupervised Learning.md",
-    "-images/Traceability Example in SAD W2.png",
-    "Software A&D/SAD Week 2-3.md",
-    "Software Development Life Cycle (SDLC).md",
-    "Software A&D/SAD Week 1.md",
-    "Chatbot.md",
-    "Quality Attributes Scenarios.md",
-    "CRISP-DM.md",
-    "Computer Vision.md",
-    "Computer Science.md",
-    "Clustering.md",
-    "-images/McCall Quality Model.png",
-    "Quality Model.md",
-    "Software Quality.md",
-    "-images/Hierarchical Software Quality Model.png",
     "Untitled.canvas",
     "Untitled 1.canvas",
-    "ChatGPT.md",
-    "2024-09-17.md",
-    "-images/Software Quality Examples.png",
-    "Torch.md",
-    "-images/Other factors in ML.png",
-    "-images/Model Evaluation Example.png",
-    "-images/Model Training Example in PyTorch.png",
-    "-images/Project Example Model Design.png",
-    "-images/ML development cycle.png",
-    "-images/Basic Description of ML.png",
-    "-images",
+    "-img",
     "ML",
     "Beeg Data",
     "Software A&D"

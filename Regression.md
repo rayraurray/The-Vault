@@ -3,3 +3,5 @@ Regression is **a supervised machine learning technique which is used to predict
 
 Regression is approximating a mapping variable (𝑓) from input variables (𝑋) to a continuous output variable (𝑦).
 A continuous output variable is a real-value, such as an integer of floating point value. These are often quantities, such as amounts and sizes.
+
+A regression problem is when the target output can be represented by a real or continuous value, such as “age” or “weight”.  

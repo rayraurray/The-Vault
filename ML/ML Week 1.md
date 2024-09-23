@@ -1,3 +1,4 @@
+[[AML]]
 # Definitions
 [[Deep Learning]] is a subset of [[Machine Learning]]
 [[Machine Learning]] is a subset of [[Artificial Intelligence]]
@@ -93,4 +94,4 @@ It compares the predicted results with the groundtruth label to calculate the ac
 # Other things to know
 ![[Other factors in ML.png]]
 # Applications
-[[Applications of Machine Learning]]c[=111111111111111111111114444444444444444444444444444444444444444444444444444444444444444444444444444444444444444]
+[[Applications of Machine Learning]]

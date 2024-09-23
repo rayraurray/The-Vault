@@ -1,0 +1,1 @@
+*scikit-learn* is a a free and open-source [[Python]] module for machine learning built on top of SciPy and is distributed under the 3-Clause BSD license.

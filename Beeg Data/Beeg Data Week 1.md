@@ -11,12 +11,13 @@ Should only keep track of Data (content with no meaning) and Information (data w
 => Real world decision-making through evaluation, research, feedback, observation.
 
 Discrete facts about an event (Data) -> Data with analyzed relationships and connections (Information) -> Contextualized Information (Knowledge) -> Wisdom.
-# 5 Vs of Big Data
+# 6 Vs of Big Data
 Volume: how much data there is (terabytes to exabytes) - BEEG
 Variety: how many kinds of data there are, structured unstructured
 Velocity: the speed of created data (data in motion)
 Veracity: the correctness of data, taking into consideration consistency, completeness, ambiguities, etc. 
 Value: usefulness of data for an enterprise, comes from a combination of other factors - veracity, timeliness, life cycle.
+Variability
 # Primary Types of Data
 Structured Data
 Unstructured Data

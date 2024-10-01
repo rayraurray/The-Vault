@@ -3,7 +3,6 @@
 A regression problem is when the target output can be represented by a real or continuous value, such as "age" or "weight".
 
 Non-regression problem is when the target output may be classified by non-numerical values, such as "gender", or "religion".
-
 [[Linear Regression]]
 [[Simple Linear Regression]]
 [[Multiple Linear Regression]]
@@ -12,5 +11,3 @@ Non-regression problem is when the target output may be classified by non-numeri
 Although a higher order polynomial model may allow better modeling of the data, it is likely to lead to overfitting. 
 [[Overfitting]]
 [[Underfitting]]
-
-[[Regularized Linear Regression]]

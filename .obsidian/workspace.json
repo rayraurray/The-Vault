@@ -4,22 +4,59 @@
     "type": "split",
     "children": [
       {
-        "id": "0b6640936a76af3e",
+        "id": "9d69259f264ba5e7",
         "type": "tabs",
         "children": [
           {
-            "id": "9e73c601ba77a5ee",
+            "id": "b681c23bd22bf4a6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Beeg Data/Beeg Data Week 1.md",
+                "file": "Software A&D/SAD Week 4.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ca3ab7446e66bbfe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Beeg Data/Beeg Data Week 4.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "03a259b21abe308e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Software A&D/SAD Week 5.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4157bf6f18036e75",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Software A&D/SAD Week 5.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -85,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Beeg Data/Beeg Data Week 1.md",
+                "file": "Software A&D/SAD Week 5.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Beeg Data/Beeg Data Week 1.md",
+                "file": "Software A&D/SAD Week 5.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Beeg Data/Beeg Data Week 1.md"
+                "file": "Software A&D/SAD Week 5.md"
               }
             }
           }
@@ -146,45 +183,47 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9e73c601ba77a5ee",
+  "active": "b4d0ba6546334df9",
   "lastOpenFiles": [
-    "Cost Function.md",
+    "Software A&D.zip",
+    "Beeg Data/Beeg Data Week 5.md",
+    "-img/From Users' Metadata to Data Warehouse.png",
+    "Software A&D/SAD Week 5.md",
+    "-img/metadata associations p2.png",
+    "-img/metadata associations p1.png",
+    "{FA67904F-10D4-4138-A54C-CB104D8E0EC5}.png",
+    "-img/metadata throughout the cycle.png",
+    "-img/metadata in architecture.png",
+    "-img/listing collabs.png",
+    "-img/CRC cards.png",
+    "-img/xfig.png",
+    "-img/candidate classes.png",
+    "Software A&D/yapping about Drawing Editor.md",
+    "ML/ML Week 4.md",
+    "ML/ML Week 3.md",
+    "ML/ML Week 2.md",
+    "Beeg Data/Beeg Data Week 2 + 3.md",
+    "Beeg Data/INF20016 Lecture 4.pdf",
+    "Object Oriented Design.md",
+    "Cohesion.md",
+    "Software A&D/26th Sep MoM.md",
+    "Beeg Data/Beeg Data Week 4.md",
+    "Software A&D/SAD Week 4.md",
+    "Coupling.md",
+    "Untitled",
+    "Support Vector Machine (SVM).md",
+    "Python.md",
     "Gradient Descent.md",
     "Multiclass Classification.md",
-    "Numpy.md",
-    "Pandas.md",
-    "ML/ML Week 3.md",
-    "Python.md",
-    "Scikit-learn.md",
-    "-img/Variants of Gradient Descent.png",
-    "Stochastic Gradient Descent.md",
-    "Mini-batch Gradient Descent.md",
-    "Batch Gradient Descent.md",
     "Multinomial Logistic Regression.md",
-    "-img/Softmax Cost Function.png",
-    "Pasted image 20240920103153.png",
-    "-img/Softmax Eval.png",
-    "Pasted image 20240920103224.png",
-    "Pasted image 20240920103209.png",
-    "Pasted image 20240920103129.png",
-    "Pasted image 20240920103107.png",
-    "-img/Defined Softmax Function.png",
-    "Pasted image 20240920102934.png",
     "One-vs-All Binary Logistic Regression.md",
-    "Decision Boundary.md",
-    "ML/ML Week 2.md",
-    "Underfitting.md",
+    "Polynomial Regression.md",
     "Logistic Regression.md",
-    "Generative AI.md",
-    "Supervised Learning.md",
-    "Data Mining.md",
-    "Beeg Data/Beeg Data Week 2 + 3.md",
-    "Beeg Data/Beeg Data Week 1.md",
-    "ML/ML Week 1.md",
+    "Decision Boundary.md",
+    "Cost Function.md",
+    "Ordinary Least Square (OLS).md",
     "ML/AML.md",
-    "Regularized Linear Regression.md",
-    "Linear Regression.md",
-    "Untitled",
+    "INF20016 Lecture 4.pdf",
     "Untitled.canvas",
     "Untitled 1.canvas",
     "-img",

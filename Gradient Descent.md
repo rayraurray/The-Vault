@@ -1,13 +1,17 @@
 Gradient descent is an optimization algorithm which is commonly-used to train [[Machine Learning]] models and [[Neural Network]]s. It trains machine learning models by minimizing errors between predicted and actual results.
 
 - Hypothesis ℎ𝜃 𝑥 is represented as:  
-ℎ𝜃(𝑥) = 𝜃0 + 𝜃1𝑥  
+$$\Large
+h_\theta(𝑥) = \theta_0 + \theta_1x
+$$
 - Parameters: 
-𝜃0 and 𝜃1  
+$\large \theta_0$ and $\large \theta_1$  
 - Cost function:
-![[GD Cost Function.png]]
+$$\Large
+J(\theta_0, \theta_1) = \frac{1}{2N}\sum^N_{n=1}(h_{\theta}(x^{(n)})-y^{(n)})^2
+$$
 - Goal:
-minimize J(𝜃0 , 𝜃1)
+minimize $\large J(\theta_0, \theta_1)$
 # How it works
 ![[Gradient Descent.png]]
 ![[How Gradient Descent works.png]]

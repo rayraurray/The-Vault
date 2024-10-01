@@ -1,5 +1,5 @@
 [[AML]]
-# Definitions
+# Definition
 [[Deep Learning]] is a subset of [[Machine Learning]]
 [[Machine Learning]] is a subset of [[Artificial Intelligence]]
 
@@ -25,8 +25,8 @@ function 𝑓.
 ![[ML development cycle.png]]
 
 # ML and rule-based systems
-[[Rule-based System]]
-[[Machine Learning]]
+See all in [[Rule-based System]]
+See all in [[Machine Learning]]
 
 ![[Rule-based vs ML.png]]
 
@@ -35,15 +35,15 @@ function 𝑓.
 | ----------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Lower volumes of data<br>Relative simplicity<br>Speedy output<br>Clear and constant data distribution | Simple rules, guidelines don't apply<br>Complex rules and intensive issues<br>Long term problem -> Manageability and improvement and enhancement<br>Data distinction changes over time -> Constant adaptation 
 # Types of ML algorithms
-[[Supervised Learning]]
+See all in [[Supervised Learning]]
 ![[Supervised Learning Example.png]]
 
-[[Unsupervised Learning]]
+See all in [[Unsupervised Learning]]
 ![[Unsupervised Learning Example.png]]
 
 # Deep Learning
 ## Definition
-[[Deep Learning]]
+See all in [[Deep Learning]]
 ![[Deep Learning Base.png]]
 ## ML vs DL
 
@@ -56,16 +56,16 @@ function 𝑓.
 | Manual feature selection           | Algorithm-based automatic feature selection |
 | Easy-to-explain                    | Hard-to-explain                             |
 ## Types of DL Networks
-[[Convolutional Neural Network]]
-[[Recurrent Neural Network]]
+See all in [[Convolutional Neural Network]]
+See all in [[Recurrent Neural Network]]
 ## Deep Learning Frameworks
-[[Deep Learning Framework]]
-[[Noice Deep Learning Frameworks]]
+See all in [[Deep Learning Framework]]
+See all in [[Noice Deep Learning Frameworks]]
 ## How does a Neural Network actually learn
-[[Neural Network Learning]]
-[[Backpropagation]]
+See all in [[Neural Network Learning]]
+See all in [[Backpropagation]]
 # ML Life Cycle
-[[Machine Learning Life Cycle]]
+See all in [[Machine Learning Life Cycle]]
 # Project Example
 ## 1. Data Preparation  
 - MINIST datasets  
@@ -94,4 +94,4 @@ It compares the predicted results with the groundtruth label to calculate the ac
 # Other things to know
 ![[Other factors in ML.png]]
 # Applications
-[[Applications of Machine Learning]]
+See all in [[Applications of Machine Learning]]

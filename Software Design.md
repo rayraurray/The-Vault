@@ -1,0 +1,1 @@
+The activity of software design can be seen as translating and refining a (problem) domain model into abstractions that can be directly mapped to an implementation in a programming language.

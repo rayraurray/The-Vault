@@ -8,55 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b681c23bd22bf4a6",
+            "id": "d0b6ff6e441d9d2d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Software A&D/SAD Week 4.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ca3ab7446e66bbfe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Beeg Data/Beeg Data Week 4.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "03a259b21abe308e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Software A&D/SAD Week 5.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4157bf6f18036e75",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Software A&D/SAD Week 5.md",
+                "file": "ML/ML Week 5.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -85,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "gradient Descent",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -122,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Software A&D/SAD Week 5.md",
+                "file": "ML/ML Week 5.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Software A&D/SAD Week 5.md",
+                "file": "ML/ML Week 5.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Software A&D/SAD Week 5.md"
+                "file": "ML/ML Week 5.md"
               }
             }
           }
@@ -170,8 +133,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -183,46 +145,47 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b4d0ba6546334df9",
+  "active": "d0b6ff6e441d9d2d",
   "lastOpenFiles": [
-    "Software A&D.zip",
-    "Beeg Data/Beeg Data Week 5.md",
-    "-img/From Users' Metadata to Data Warehouse.png",
-    "Software A&D/SAD Week 5.md",
-    "-img/metadata associations p2.png",
-    "-img/metadata associations p1.png",
-    "{FA67904F-10D4-4138-A54C-CB104D8E0EC5}.png",
-    "-img/metadata throughout the cycle.png",
-    "-img/metadata in architecture.png",
-    "-img/listing collabs.png",
-    "-img/CRC cards.png",
-    "-img/xfig.png",
-    "-img/candidate classes.png",
-    "Software A&D/yapping about Drawing Editor.md",
-    "ML/ML Week 4.md",
-    "ML/ML Week 3.md",
-    "ML/ML Week 2.md",
-    "Beeg Data/Beeg Data Week 2 + 3.md",
-    "Beeg Data/INF20016 Lecture 4.pdf",
-    "Object Oriented Design.md",
-    "Cohesion.md",
+    "ML/ML Week 6.md",
+    "Multi-task Learning.md",
     "Software A&D/26th Sep MoM.md",
-    "Beeg Data/Beeg Data Week 4.md",
-    "Software A&D/SAD Week 4.md",
-    "Coupling.md",
-    "Untitled",
-    "Support Vector Machine (SVM).md",
-    "Python.md",
-    "Gradient Descent.md",
-    "Multiclass Classification.md",
-    "Multinomial Logistic Regression.md",
-    "One-vs-All Binary Logistic Regression.md",
-    "Polynomial Regression.md",
-    "Logistic Regression.md",
-    "Decision Boundary.md",
-    "Cost Function.md",
-    "Ordinary Least Square (OLS).md",
+    "Random October Freelance Job.md",
+    "Software A&D/yapping about Drawing Editor.md",
+    "Model Freezing.md",
+    "Fine-tuning Pre-Trained Models.md",
+    "One-shot Learning.md",
+    "Fine-tuning (Machine Learning).md",
+    "Transfer Learning.md",
+    "-img/One-shot Learning 3.png",
+    "-img/One-shot Learning 2.png",
+    "-img/One-shot Learning.png",
+    "Deep Transfer Learning.md",
+    "Zero-shot Learning.md",
+    "-img/Zero-shot Learning.png",
+    "-img/Auxiliary Info Example.png",
+    "-img/Generic MTl.png",
+    "-img/Multi-task Learning.png",
+    "Domain Adaptation.md",
+    "Reconstruction based Domain Adaptation.md",
+    "-img/Reconstruction based Domain Adaptation 3.png",
+    "-img/Reconstruction based Domain Adaptation 2.png",
+    "-img/Reconstruction based Domain Adaptation.png",
+    "Adversarial based Domain Adaptation.md",
+    "Divergence based Domain Adaptation.md",
+    "ML/ML Week 5.md",
+    "Pre-Trained Model.md",
+    "Feature Extractors using Pre-Trained Models.md",
     "ML/AML.md",
+    "Beeg Data/Beeg Data Week 6.md",
+    "Gradient Descent.md",
+    "Porter's Five Forces.md",
+    "Beeg Data/Beeg Data Week 4.md",
+    "Software A&D/SAD Week 5.md",
+    "ML/ML Week 1.md",
+    "Software A&D.zip",
+    "Beeg Data/INF20016 Lecture 4.pdf",
+    "Untitled",
     "INF20016 Lecture 4.pdf",
     "Untitled.canvas",
     "Untitled 1.canvas",

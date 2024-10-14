@@ -1,0 +1,2 @@
+[[Machine Learning]]
+Fine-tuning could be considered a subset of the broader technique of transfer learning: the practice of leveraging knowledge an existing model has already learned as the starting point for learning new tasks.

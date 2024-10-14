@@ -1,0 +1,2 @@
+Porter's Five Forces Framework is a method of analysing the competitive environment of a business. It draws from industrial organization economics to derive five forces that determine the competitive intensity and, therefore, the attractiveness of an industry in terms of its profitability.
+![[Five-Forces-Model-Porter.webp]]

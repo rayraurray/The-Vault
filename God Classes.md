@@ -1,0 +1,1 @@
+God class—or, alternatively, god object—is **an anti-pattern that consists of having a class that does too much**. A god class is usually a huge class that concentrates a lot of responsibilities, controls and oversees many different objects, and effectively does everything in the application.

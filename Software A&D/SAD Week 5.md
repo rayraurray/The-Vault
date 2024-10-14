@@ -1,7 +1,7 @@
 First of all Object Oriented Design is not Object Oriented Programming.
 # Preliminaries
 ## Decomposition
--Decomposition is a process that helps to manage the complexity of the system  
+Decomposition is a process that helps to manage the complexity of the system  
 1. Starts with a high-level view of the system.  
 2. Low-level details of the features of the system are created based on high-level  
 3. Stop when we are satisfied with the level of detail.  

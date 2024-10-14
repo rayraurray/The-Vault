@@ -1,0 +1,65 @@
+[[AML]]
+# Transfer Learning
+See all in [[Transfer Learning]]
+# Traditional [[Machine Learning]] vs Transfer Learning
+
+| TML                                                                          | TL                                                                 |
+| ---------------------------------------------------------------------------- | ------------------------------------------------------------------ |
+| Isolated, single task                                                        | The learning of the target task relies on the source task          |
+| Knowledge is not retained                                                    | Knowledge is retained                                              |
+| Learning does not take into account the knowledge acquired in the other task | Faster learning process, more accurate and need less training data |
+| ![[TL 1.png]]                                                                | ![[-img/TL.png]]                                                   |
+| ![[TML.png]]                                                                 | ![[TL-3.png]]                                                      |
+- Note:
+	The circles and squares are labeled training samples from two classes.
+	The size of a circle or square indicates its weight
+	The dotted and dashed lines are classification boundaries
+# Understanding Transfer Learning
+## Case Study 1 - Dog Classification
+![[dog classification.png]]![[dog classification 2.png]]
+![[dog classification 3.png]]
+# Key takeaways
+What to transfer?
+	Identify which part of the knowledge is source-specific and what is common between the source and the target.
+	Be careful of negative transfer
+	The choice of source data or source model is an open problem and may require domain expertise and/or intuition developed via experience.
+When to transfer?
+	Do not have a lot of target data
+How to transfer?
+	We will talk about transfer learning for Deep learning in the following slides
+
+# Transfer Learning for [[Deep Learning]]
+Myth $\rightarrow$ You can’t do deep learning unless you have a million labelled examples for your problem
+Reality $\rightarrow$  You can transfer learned representation from related task
+
+Key idea:
+	Instead of training a deep network from scratch for the target task, we deploy the network that has already been trained on a different domain for a different source task, we adapt it to our domain and target task.
+Variation:
+	Same domain different task
+	Different domain same task
+
+## $\rightarrow$ What are Domain and Task?
+If two domains are different, they may have different feature spaces or different marginal distributions.
+![[domain and task.png]]
+If two domains are different, they may have different feature spaces or different marginal distributions.
+![[domain and task 2.png]]
+If two tasks are different, they may have different label spaces or different conditional distributions.
+![[domain and task 3.png]]
+
+# Transfer Learning Methods
+[[Pre-Trained Model]]
+[[Feature Extractors using Pre-Trained Models]]
+[[Fine-tuning Pre-Trained Models]]
+[[Model Freezing]]
+
+# PTMs and Source Data
+For computer vision, you can leverage some popular models that we have learn in Lecture 5:
+	VGG (eg. VGG-16)
+	GoogLeNet (eg. Inception V3)
+	ResNet
+Source data is depend on the application:
+	Image classification: ImageNet, Places Dataset
+	Video classification: Sport-1M, Kinetics, Activity Net
+
+# Deep Transfer Learning
+See all routes in [[Deep Transfer Learning]]

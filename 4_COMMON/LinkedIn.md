@@ -1,0 +1,1 @@
+LinkedIn is an American business and employment-oriented social network. It was launched on May 5, 2003 by Reid Hoffman and Eric Ly. Since December 2016, LinkedIn has been a wholly owned subsidiary of Microsoft.

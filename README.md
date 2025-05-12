@@ -1,0 +1,1 @@
+This Vault contains an attempt to capture the entirety of the knowledge known by the author of this repository.

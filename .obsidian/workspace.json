@@ -1,22 +1,24 @@
 {
   "main": {
-    "id": "de9d0d777e6e1c00",
+    "id": "262943f68e680acb",
     "type": "split",
     "children": [
       {
-        "id": "9d69259f264ba5e7",
+        "id": "808b7e929186afec",
         "type": "tabs",
         "children": [
           {
-            "id": "d0b6ff6e441d9d2d",
+            "id": "d70eac0ea98a007c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ML/ML Week 5.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "README"
             }
           }
         ]
@@ -25,108 +27,51 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "dafd495a3ccc0a53",
+    "id": "b0504952dd6886b0",
     "type": "split",
     "children": [
       {
-        "id": "4816f9cf619c71a1",
+        "id": "acb6cd7eaf4700ab",
         "type": "tabs",
         "children": [
           {
-            "id": "b4d0ba6546334df9",
+            "id": "9b9318277e77f5d3",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byModifiedTime"
-              }
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
-            "id": "c3e607eab3b875cc",
+            "id": "85cc4dd64058680d",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "gradient Descent",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
-            "id": "d54a75c2dca38608",
+            "id": "0996be960f801796",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
-            }
-          }
-        ]
-      }
-    ],
-    "direction": "horizontal",
-    "width": 379.5
-  },
-  "right": {
-    "id": "ed6fb30218ae352b",
-    "type": "split",
-    "children": [
-      {
-        "id": "93b75fca1f1b363b",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "0db6ba60865ffd70",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "ML/ML Week 5.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "d6c3e6cbcda309b5",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "ML/ML Week 5.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "972c67c9bac395e6",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              }
-            }
-          },
-          {
-            "id": "d66d6d38381f0a19",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "ML/ML Week 5.md"
-              }
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -134,6 +79,82 @@
     ],
     "direction": "horizontal",
     "width": 300
+  },
+  "right": {
+    "id": "47131471409ea4f1",
+    "type": "split",
+    "children": [
+      {
+        "id": "cb140bf5cccc22cc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8ffbf2bfca401fa7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "ef052ee663abbf37",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "83a45910ccb5742e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "7ec3fd5a72f2725e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Welcome.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Welcome"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -145,53 +166,52 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d0b6ff6e441d9d2d",
+  "active": "d70eac0ea98a007c",
   "lastOpenFiles": [
-    "ML/ML Week 6.md",
-    "Multi-task Learning.md",
-    "Software A&D/26th Sep MoM.md",
-    "Random October Freelance Job.md",
-    "Software A&D/yapping about Drawing Editor.md",
-    "Model Freezing.md",
-    "Fine-tuning Pre-Trained Models.md",
-    "One-shot Learning.md",
-    "Fine-tuning (Machine Learning).md",
-    "Transfer Learning.md",
-    "-img/One-shot Learning 3.png",
-    "-img/One-shot Learning 2.png",
-    "-img/One-shot Learning.png",
-    "Deep Transfer Learning.md",
-    "Zero-shot Learning.md",
-    "-img/Zero-shot Learning.png",
-    "-img/Auxiliary Info Example.png",
-    "-img/Generic MTl.png",
-    "-img/Multi-task Learning.png",
-    "Domain Adaptation.md",
-    "Reconstruction based Domain Adaptation.md",
-    "-img/Reconstruction based Domain Adaptation 3.png",
-    "-img/Reconstruction based Domain Adaptation 2.png",
-    "-img/Reconstruction based Domain Adaptation.png",
-    "Adversarial based Domain Adaptation.md",
-    "Divergence based Domain Adaptation.md",
-    "ML/ML Week 5.md",
-    "Pre-Trained Model.md",
-    "Feature Extractors using Pre-Trained Models.md",
-    "ML/AML.md",
-    "Beeg Data/Beeg Data Week 6.md",
-    "Gradient Descent.md",
-    "Porter's Five Forces.md",
-    "Beeg Data/Beeg Data Week 4.md",
-    "Software A&D/SAD Week 5.md",
-    "ML/ML Week 1.md",
-    "Software A&D.zip",
-    "Beeg Data/INF20016 Lecture 4.pdf",
-    "Untitled",
-    "INF20016 Lecture 4.pdf",
-    "Untitled.canvas",
-    "Untitled 1.canvas",
+    "2_TECH/Machine Learning.md",
+    "README.md",
+    "2_TECH/Artificial Intelligence.md",
+    "2_TECH/Big Data.md",
+    "1_SWINBURNE/INF20016/W1 - INF20016.md",
+    "1_SWINBURNE/Swinburne.md",
+    "2_TECH/Hadoop Ecosystem.md",
+    "4_COMMON/Venn Diagrams.md",
+    "4_COMMON/LinkedIn.md",
+    "4_COMMON/Google.md",
+    "2_TECH/Zero-shot Learning.md",
+    "2_TECH/Gradient Descent.md",
+    "2_TECH/Classification.md",
+    "2_TECH/Abstraction (Software).md",
+    "1_SWINBURNE/INF20016/W6 - INF20016.md",
+    "1_SWINBURNE/INF20016/W5 - INF20016.md",
+    "1_SWINBURNE/INF20016/W4 - INF20016.md",
+    "1_SWINBURNE/INF20016/W3 - INF20016.md",
+    "1_SWINBURNE/INF20016/W2 - INF20016.md",
+    "1_SWINBURNE/INF20016/INF20016.md",
+    "1_SWINBURNE/SWE30003/W2 - SWE30003.md",
+    "1_SWINBURNE/SWE30003/W3 - SWE30003.md",
+    "1_SWINBURNE/SWE30003/W4 - SWE30003.md",
+    "1_SWINBURNE/SWE30003/W5 - SWE30003.md",
+    "1_SWINBURNE/SWE30003/W6 - SWE30003.md",
+    "0_IMAGES/5x5 cnn.png",
+    "1_SWINBURNE/Untitled",
+    "1_SWINBURNE/INF20016",
+    "1_SWINBURNE/SWE30003",
+    "1_SWINBURNE/COS30082",
+    "0_IMAGES/Higher Order Polynomial Regression.png",
+    "0_IMAGES/Replacing FC with Convolutional Layer.png",
+    "0_IMAGES/Zero-shot Learning.png",
+    "0_IMAGES/xfig.png",
+    "0_IMAGES/When λ is too small.png",
+    "0_IMAGES/When λ is too large.png",
+    "0_IMAGES/VGG config.png",
+    "0_IMAGES/venn-diagrams.png",
+    "0_IMAGES/Variants of Gradient Descent.png",
     "-img",
-    "ML",
-    "Beeg Data",
-    "Software A&D"
+    "4_COMMON",
+    "3_PROJECTS/0_LAST STAR",
+    "3_PROJECTS",
+    "2_TECH/0_CODING",
+    "2_TECH"
   ]
 }

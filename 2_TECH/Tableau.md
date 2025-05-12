@@ -1,0 +1,1 @@
+Tableau is a **visual analytics platform** that empowers users to analyze and visualize [[Data]] to gain insights and make informed decisions. It offers a user-friendly, drag-and-drop interface that allows both technical and non-technical users to create interactive dashboards and visualizations. 

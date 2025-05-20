@@ -6,4 +6,4 @@ The Swinburne University of Technology is a public research university in Melbou
 
 Swinburne Vietnam Alliance Program is an international alliance between _Swinburne University of Technology in Australia_ and FPT University in Vietnam.
 
-> doin this for the degree bro
+> doin this for **the degree** bro
